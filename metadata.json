@@ -1,0 +1,6 @@
+{
+  "name": "CarDVR++",
+  "description": "High-frequency 20 FPS dashcam capture with real-time speed, GPS coordinates, and timestamp HUD overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
